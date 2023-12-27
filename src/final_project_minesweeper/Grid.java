@@ -1,6 +1,5 @@
 //package final_project_minesweeper;
 
-// CODE TO VIDEO: https://www.youtube.com/watch?v=Y3zssR9oA4s
 import java.util.Random;
 
 public class Grid {
